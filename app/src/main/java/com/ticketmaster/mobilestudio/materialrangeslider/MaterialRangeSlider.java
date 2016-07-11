@@ -352,7 +352,6 @@ public class MaterialRangeSlider extends View {
                         jumpToPosition(i, event);
                     }
                 }
-
                 break;
 
             case MotionEvent.ACTION_CANCEL:

@@ -5,6 +5,7 @@ import android.util.DisplayMetrics;
 
 /**
  * Created by AS on 2016/7/6.
+ * 像素转换类
  */
 public class DensityUtils {
     private DensityUtils() { }
